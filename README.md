@@ -4,7 +4,7 @@ Data Science and visualisation is more than a job to me, its a fun where I can g
 
 Email: yasarmp05@gmail.com
 
-# Technical Skills:
+**Technical Skills:**
 Python
 Data Science
 Machine Learning, Deep Learning
@@ -15,7 +15,7 @@ Comfortable with Flask
 
 I have worked on End_to_end data analytics/data science projects. Specialized in machine learning.
 
-Soft Skills:
+**Soft Skills:**
 
 Extremely Good at Problem solving
 Loves business strategies and solutions that gives value to the business
@@ -23,7 +23,7 @@ Fantastic Communicator, who can be bridge between several departments and client
 Deep thinker
 Highly creative
 
-Hobbies
+**Hobbies**
 Data science and Visualisation stuffs
 Writing
 Watching ads
