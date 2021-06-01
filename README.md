@@ -17,6 +17,7 @@ Email: yasarmp05@gmail.com
 I have worked on End_to_end data analytics/data science projects. Specialized in machine learning.
 
 **What makes me standout from others?**
+
 Its the way I think. Its the way, how I use all my skills and my colleagues skills to derive a business solution to the problem.
 My mind never gets rest unless, it comes out solving a problem where i am involved in.
 
