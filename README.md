@@ -13,6 +13,10 @@ Email: yasarmp05@gmail.com
 - mongoDB, MySQL
 - Web Scraping (Scrapy, Beautiful Soup and Selenium)
 - Flask
+- image scrapping
+- Chatbot creation
+- Scikit Learn
+- MLOps
 
 I have worked on End_to_end data analytics/data science projects. Specialized in machine learning.
 
