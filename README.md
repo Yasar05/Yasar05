@@ -18,7 +18,12 @@ Email: yasarmp05@gmail.com
 - Scikit Learn
 - MLOps
 
-I have worked on End_to_end data analytics/data science projects. Specialized in machine learning.
+I have Hands on experience in End_to_end data analytics/data science projects. Specialized in machine learning.
+
+Check my Data analysis and Visualization handson skills(in python) here:
+This is my consolidation of some of the visualization works that I did previously.
+
+https://github.com/Yasar05/60-EDA_toolkit/blob/main/60%20%2B%20EDA_toolkit.ipynb
 
 **What makes me standout from others?**
 
