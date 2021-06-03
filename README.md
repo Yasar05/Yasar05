@@ -1,7 +1,7 @@
 👋 Hi there, I’m Yashar Arafath.
 
 Data Science practitioner, extremely passionate about data science with Supply Chain Domain Knowledge.
-Data Science and visualisation is more than a job to me, its a fun where I can get rid of my Boredom.
+Data Science and visualization is more than a job to me, its a fun where I can get rid of my Boredom.
 
 Email: yasarmp05@gmail.com
 
@@ -39,7 +39,7 @@ My mind never gets rest unless, it comes out solving a problem where i am involv
 - Highly creative
 
 **Hobbies**
-- Data science and Visualisation stuffs
+- Data science and Visualization stuffs
 - Writing
 - Watching ads
 
