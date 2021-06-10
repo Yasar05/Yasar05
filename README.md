@@ -17,6 +17,7 @@ Email: yasarmp05@gmail.com
 - Chatbot creation
 - Scikit Learn
 - MLOps
+- Basics of Hadoop
 
 I have Hands on experience in End_to_end data analytics/data science projects. Specialized in machine learning.
 
@@ -24,6 +25,11 @@ Check my Data analysis and Visualization handson skills(in python) here:
 This is my consolidation of some of the visualization works that I did previously.
 
 https://github.com/Yasar05/60-EDA_toolkit/blob/main/60%20%2B%20EDA_toolkit.ipynb
+
+**My Blog**
+https://inblog.in/One-thing-you-need-to-know-before-doing-data-analysis-and-model-Building-7aKJvH2kfd
+
+https://inblog.in/XGBoost-simple-maths-intuition-PUFfanHYls
 
 **What makes me standout from others?**
 
