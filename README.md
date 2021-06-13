@@ -17,7 +17,8 @@ Email: yasarmp05@gmail.com
 - Chatbot creation
 - Scikit Learn
 - MLOps
-- Basics of Hadoop
+- CI/CD pipeline
+- cloud services
 
 I have Hands on experience in End_to_end data analytics/data science projects. Specialized in machine learning.
 
