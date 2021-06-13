@@ -28,8 +28,10 @@ This is my consolidation of some of the visualization works that I did previousl
 https://github.com/Yasar05/60-EDA_toolkit/blob/main/60%20%2B%20EDA_toolkit.ipynb
 
 **My Blog**
+- One thing you need to know while doing data analysis and model building
 https://inblog.in/One-thing-you-need-to-know-before-doing-data-analysis-and-model-Building-7aKJvH2kfd
 
+- XGBoost maths intuition
 https://inblog.in/XGBoost-simple-maths-intuition-PUFfanHYls
 
 **What makes me standout from others?**
