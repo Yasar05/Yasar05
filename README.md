@@ -34,6 +34,9 @@ https://inblog.in/One-thing-you-need-to-know-before-doing-data-analysis-and-mode
 - XGBoost maths intuition
 https://inblog.in/XGBoost-simple-maths-intuition-PUFfanHYls
 
+My video resume:
+https://youtu.be/MCLDbMrdQ5o
+
 **What makes me standout from others?**
 
 Its the way I think. Its the way, how I use all my skills and my colleagues skills to derive a business solution to the problem.
