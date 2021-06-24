@@ -8,7 +8,7 @@ Email: yasarmp05@gmail.com
 **Technical Skills:**
 - Python
 - Data Science
-- Machine Learning, Deep Learning
+- Machine Learning, Deep Learning, NLP
 - Tableau
 - mongoDB, MySQL
 - Web Scraping (Scrapy, Beautiful Soup and Selenium)
