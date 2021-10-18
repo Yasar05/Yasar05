@@ -13,6 +13,7 @@ Email: yasarmp05@gmail.com
 - mongoDB, MySQL
 - Web Scraping (Scrapy, Beautiful Soup and Selenium)
 - Flask
+- deployment in cloud services
 - image scrapping
 - Chatbot creation
 - Scikit Learn
@@ -22,17 +23,9 @@ Email: yasarmp05@gmail.com
 
 I have Hands on experience in End_to_end data analytics/data science projects. Specialized in machine learning.
 
-Check my Data analysis and Visualization handson skills(in python) here:
-This is my consolidation of some of the visualization works that I did previously.
-
-https://github.com/Yasar05/60-EDA_toolkit/blob/main/60%20%2B%20EDA_toolkit.ipynb
-
 **My Blog**
-- One thing you need to know while doing data analysis and model building
-https://inblog.in/One-thing-you-need-to-know-before-doing-data-analysis-and-model-Building-7aKJvH2kfd
 
-- XGBoost maths intuition
-https://inblog.in/XGBoost-simple-maths-intuition-PUFfanHYls
+https://medium.com/@thi_thinker
 
 My video resume:
 https://youtu.be/MCLDbMrdQ5o
