@@ -27,9 +27,6 @@ I have Hands on experience in End_to_end data analytics/data science projects. S
 
 https://medium.com/@thi_thinker
 
-My video resume:
-https://youtu.be/MCLDbMrdQ5o
-
 **What makes me standout from others?**
 
 Its the way I think. Its the way, how I use all my skills and my colleagues skills to derive a business solution to the problem.
